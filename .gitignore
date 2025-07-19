@@ -1,0 +1,23 @@
+# Gradle build artifacts
+.gradle/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+.project
+.classpath
+bin/
+
+# Mac
+.DS_Store
+
+# Log files
+*.log
+
+# System files
+Thumbs.db
